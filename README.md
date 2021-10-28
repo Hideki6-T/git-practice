@@ -3,4 +3,4 @@
 Changed at local repo.
 new-feature branch
 Change this file again
-conflict on main branch
+Conflict occured
