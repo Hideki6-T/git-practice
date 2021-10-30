@@ -4,3 +4,4 @@ Changed at local repo.
 new-feature branch
 Change this file again
 Conflict occured
+Github上で更新
