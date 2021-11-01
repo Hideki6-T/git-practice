@@ -5,3 +5,4 @@ new-feature branch
 Change this file again
 Conflict occured
 Github上で更新
+Github上で更新２回目
