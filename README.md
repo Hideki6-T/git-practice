@@ -5,3 +5,4 @@ new-feature branch
 Change this file again
 Conflict occured
 Github上で更新
+conflict-remote上で更新(コンフリクト発生)
